@@ -1,0 +1,818 @@
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+targetLocators: 0
+targetfolder: 10
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+Apple
+targetLocators: 0
+targetfolder: 10
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+targetLocators: 0
+targetfolder: 10
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+48
+targetLocators: 0
+targetfolder: 10
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+0: apps/Apple
+1: apps/Foxnews
+2: apps/Twitter
+3: apps/Ups
+4: apps/Chase
+5: apps/Usps
+6: apps/Wikipedia
+7: apps/Aliexpress
+8: apps/Amazon
+9: apps/Office
+10: apps/Target
+11: apps/Google
+12: apps/Microsoft
+13: apps/Bestbuy
+14: apps/Microsoftonline
+15: apps/Spotify
+16: apps/Bing
+17: apps/Intuit
+18: apps/Indeed
+19: apps/Etsy
+20: apps/Youtube
+21: apps/Ebay
+22: apps/Walmart
+23: apps/Craigslist
+24: apps/Netflix
+25: apps/Adobe
+26: apps/Cnn
+27: apps/Facebook
+28: apps/Nytimes
+29: apps/Wellsfargo
+30: apps/Instructure
+31: apps/Espn
+32: apps/Paypal
+33: apps/Myshopify
+34: apps/Live
+35: apps/Imdb
+36: apps/Reddit
+37: apps/Okta
+38: apps/Zoom
+39: apps/Dropbox
+40: apps/Hulu
+41: apps/Zillow
+42: apps/Force
+43: apps/Twitch
+44: apps/Fidelity
+45: apps/Instagram
+46: apps/Linkedin
+47: apps/Yahoo
+targetLocators: 0
+targetfolder: 10
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+targetLocators: 0
+targetfolder: 10
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+START:0 END:0
+targetLocators: 0
+targetfolder: 10
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+START:0 END:0
+targetLocators: 0
+targetfolder: 11
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: null
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+START:0 END:0
+Apple
+targetLocators: 0
+targetfolder: 11
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: null
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:0 END:0
+Apple
+targetLocators: 0
+targetfolder: 11
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: null
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+Error: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=111.0.5563.110)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'caifanyundeMBP', ip: 'fe80:0:0:0:c4f:21ae:71ee:b4bc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.5.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [53adb382c66763ad436910d83ebd463c, close {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.110, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/88/1cxv1nfd1pl...}, goog:chromeOptions: {debuggerAddress: localhost:63285}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63285/devtoo..., se:cdpVersion: 111.0.5563.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 53adb382c66763ad436910d83ebd463c
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:0 END:0
+Apple
+targetLocators: 0
+targetfolder: 11
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]
+No locator for xpath: null
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]
+No locator for xpath: /html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:1 END:1
+Adobe
+targetLocators: 0
+targetfolder: 2
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:0 END:0
+Adobe
+targetLocators: 0
+targetfolder: 2
+No locator for xpath: /html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[2]/a[1]
+Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.110)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'caifanyundeMBP', ip: 'fe80:0:0:0:c4f:21ae:71ee:b4bc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.5.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ba0652f6580c7296adf149e996e0e838, get {url=https://web.archive.org/web/20201201235538if_/https://www.aliexpress.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.110, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/88/1cxv1nfd1pl...}, goog:chromeOptions: {debuggerAddress: localhost:64522}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:64522/devtoo..., se:cdpVersion: 111.0.5563.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ba0652f6580c7296adf149e996e0e838
+Error: java.lang.NullPointerException
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:0 END:0
+Adobe
+targetLocators: 0
+targetfolder: 2
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:0 END:0
+Adobe
+targetLocators: 0
+targetfolder: 2
+No locator for xpath: /html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[2]/a[1]
+Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.110)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'caifanyundeMBP', ip: 'fe80:0:0:0:c4f:21ae:71ee:b4bc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.5.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15807fcd768c7bd4a43481ee142ae092, get {url=https://web.archive.org/web/20201102003024if_/https://www.adobe.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.110, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/88/1cxv1nfd1pl...}, goog:chromeOptions: {debuggerAddress: localhost:65047}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:65047/devtoo..., se:cdpVersion: 111.0.5563.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15807fcd768c7bd4a43481ee142ae092
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:0 END:0
+Adobe
+targetLocators: 0
+targetfolder: 2
+No locator for xpath: /html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[2]/a[1]
+Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.110)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'caifanyundeMBP', ip: 'fe80:0:0:0:c4f:21ae:71ee:b4bc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.5.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [38bd9aafa8b25ad9688268913632e6d4, get {url=https://web.archive.org/web/20201102003024if_/https://www.adobe.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.110, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/88/1cxv1nfd1pl...}, goog:chromeOptions: {debuggerAddress: localhost:65123}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:65123/devtoo..., se:cdpVersion: 111.0.5563.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 38bd9aafa8b25ad9688268913632e6d4
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:0 END:0
+Adobe
+targetLocators: 0
+targetfolder: 2
+No locator for xpath: /html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[1]/a[1]
+No locator for xpath: /html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[2]/a[1]
+Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.110)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'caifanyundeMBP', ip: 'fe80:0:0:0:c4f:21ae:71ee:b4bc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.5.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fd202f44df42b7e3d4d357a62af8d8d2, get {url=https://web.archive.org/web/20201102003024if_/https://www.adobe.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.110, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/88/1cxv1nfd1pl...}, goog:chromeOptions: {debuggerAddress: localhost:65166}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:65166/devtoo..., se:cdpVersion: 111.0.5563.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fd202f44df42b7e3d4d357a62af8d8d2
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:1 END:1
+Aliexpress
+targetLocators: 0
+targetfolder: 39
+.DS_Store
+Adobe
+Aliexpress
+Amazon
+Apple
+Bestbuy
+Bing
+Chase
+Cnn
+Craigslist
+Dropbox
+Ebay
+Espn
+Etsy
+Facebook
+Fidelity
+Force
+Foxnews
+Google
+Hulu
+Imdb
+Indeed
+Instagram
+Instructure
+Intuit
+Linkedin
+Live
+Microsoft
+Microsoftonline
+Myshopify
+Netflix
+Nytimes
+Office
+Okta
+Paypal
+Reddit
+Spotify
+Target
+Twitch
+Twitter
+Ups
+Usps
+Walmart
+Wellsfargo
+Wikipedia
+Yahoo
+Youtube
+Zillow
+START:1 END:1
+Aliexpress
+targetLocators: 0
+targetfolder: 39

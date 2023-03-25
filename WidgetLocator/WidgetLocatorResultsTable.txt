@@ -1,0 +1,131 @@
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Apple(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Adobe(1)
+##### Application: Adobe(0)
+xpath:	0	2	0
+idxpath:	0	2	0
+ide:	0	2	0
+robula:	0	2	0
+montoto:	0	2	0
+Multilocator:	0	2	0
+##### Application: Adobe(0)
+xpath:	0	2	0
+idxpath:	0	2	0
+ide:	0	2	0
+robula:	0	2	0
+montoto:	0	2	0
+Multilocator:	0	2	0
+Similo:	2	0	0
+##### Application: Adobe(0)
+##### Application: Adobe(0)
+##### Application: Adobe(0)
+##### Application: Aliexpress(1)
+##### Application: Aliexpress(1)
+xpath:	0	39	0
+idxpath:	4	35	0
+ide:	4	35	0
+robula:	5	33	1
+montoto:	1	38	0
+Multilocator:	5	34	0
+Similo:	11	0	28
+xpath:	0	39	0
+idxpath:	4	35	0
+ide:	4	35	0
+robula:	5	33	1
+montoto:	1	38	0
+Multilocator:	5	34	0
+Similo:	11	0	28

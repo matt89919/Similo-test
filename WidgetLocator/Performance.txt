@@ -1,0 +1,3 @@
+Adobe	10	2	236	5
+Aliexpress	164	39	323	4
+Aliexpress	223	39	323	5

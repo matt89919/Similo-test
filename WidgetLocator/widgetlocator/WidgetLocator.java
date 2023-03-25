@@ -14,6 +14,10 @@ import java.util.List;
 import java.util.Properties;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
+import java.util.Comparator;
+import java.util.Collections;
+import java.util.Arrays;
+
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -21,6 +25,9 @@ import org.json.simple.parser.JSONParser;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+
+
 
 public class WidgetLocator
 {
@@ -194,6 +201,8 @@ public class WidgetLocator
 			int startAppNo = FIRST_APP_INDEX;
 			int endAppNo = apps.size();
 			endAppNo = END_APP_INDEX;
+			log("START:"+startAppNo+" END:"+endAppNo);
+
 			for(int appNo=startAppNo; appNo<=endAppNo; appNo++)
 			{
 				File app = apps.get(appNo);
@@ -253,26 +262,49 @@ public class WidgetLocator
 		}
 	}
 
+	
+
 	private long locateWebElements()
 	{
-		System.setProperty("webdriver.chrome.driver", (new File("bin/drivers/chromedriver.exe")).getAbsolutePath());
-		webDriver=new ChromeDriver();
+		System.setProperty("webdriver.chrome.driver", (new File("bin/drivers/chromedriver")).getAbsolutePath());
+		ChromeOptions options = new ChromeOptions();
+		options.addArguments("--remote-allow-origins=*");
+		webDriver=new ChromeDriver(options);
 		webDriver.manage().timeouts().setScriptTimeout(300, TimeUnit.SECONDS);
 
 		List<File> apps = getFolders("apps");
+		
+		File fileDir = new File("apps");
+		List listFile = Arrays.asList(fileDir.list());
+		Collections.sort(listFile);
+		// listFile.remove(0);
+		for(int i=0;i<48;i++){
+			log(""+listFile.get(i));
+		}
+		
 		int startAppNo = FIRST_APP_INDEX;
-		int endAppNo = apps.size();
+		int endAppNo = apps.size(); //48
 		endAppNo = END_APP_INDEX;
+		log("START:"+startAppNo+" END:"+endAppNo);
 		for(int appNo=startAppNo; appNo<=endAppNo; appNo++)
 		{
 			try
 			{
-				File app = apps.get(appNo);
+
+				File app = new File("apps/"+listFile.get(appNo+1));
+				log(app.getName());
+				
+				
+				// apple(0);
+				// the sequence of file is wrong
+				
 				
 				logTable("##### Application: " + app.getName() + "(" + appNo + ")");
 
 				List<Locator> targetLocators = new ArrayList<Locator>();
 				List<File> targetFolderFiles = getFolderFiles(app);
+
+				log("targetLocators: "+targetLocators.size()+"\ntargetfolder: "+targetFolderFiles.size());
 
 				String url=OLD_WEB_SITES[appNo];
 				webDriver.get(url);

@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path=""/>
-	<classpathentry kind="lib" path="C:/EclipseWorkspace/WidgetLocator/bin/json-simple-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/EclipseWorkspace/WidgetLocator/bin/selenium-server-4.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/matt/git/Similo2/WidgetLocator/bin/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/matt/git/Similo2/WidgetLocator/bin/selenium-server-4.4.0.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
